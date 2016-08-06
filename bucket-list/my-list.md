@@ -7,7 +7,7 @@
 
 ## Travel and Adventure
  * Visit Antarctica
- * Go skydiving
+ * ~~~Go skydiving~~~
  * Dive the Great Barrier Reef
  
 ## Career
